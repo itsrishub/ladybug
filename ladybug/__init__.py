@@ -1,1 +1,1 @@
-from ladybug import ladybug
+from xladybug import debug
