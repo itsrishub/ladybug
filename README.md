@@ -1,6 +1,5 @@
 # Debugger tool
 [Author](https://twitter.com/itsrishub)
-<br>
 [pypi](https://pypi.org/project/xladybug/)
 
 Debug your code with advance python module, get time of execution, parameters, returns and many more.
