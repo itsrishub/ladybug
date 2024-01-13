@@ -5,6 +5,11 @@
 
 Debug your code with advance python module, get time of execution, parameters, returns and many more.
 
+Import:
+```
+from xladybug import debug
+```
+
 Usage for functions:
 ```
 @debug
