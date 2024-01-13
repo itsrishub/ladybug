@@ -3,7 +3,7 @@
 <br>
 [pypi](https://pypi.org/project/xladybug/)
 
-Debug your code with advance python mode, get time of execution, parameters, returns and many more.
+Debug your code with advance python module, get time of execution, parameters, returns and many more.
 
 Usage for functions:
 ```
